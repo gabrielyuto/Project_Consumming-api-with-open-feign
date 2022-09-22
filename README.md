@@ -4,7 +4,7 @@ Um simples exemplo de como consumir uma API utilizando o Open Feign e fazer os t
 
 Projeto desenvolvido seguindo os passos de Jaime Junior:
 
-![image](https://user-images.githubusercontent.com/62525280/191782586-d5c089da-e510-487c-97a3-55de38921818.png)
+<img width="1280" alt="image" src="https://user-images.githubusercontent.com/62525280/191783163-1e3a4eeb-a764-4cd8-8ac4-b734ff36890a.png">
 
 
 Link do vídeo: https://www.youtube.com/watch?v=D5oepEJ9zcQ
